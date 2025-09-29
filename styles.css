@@ -1,0 +1,59 @@
+/* Basic Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Card Layout */
+.card {
+  background-color: #fff;
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Highlighted Card */
+.highlight {
+  background-color: #22cc00;
+  color: white;
+  border-color: #005fa3;
+}
+
+/* Aside Section */
+aside {
+  background-color: #eaeaea;
+  padding: 15px;
+  margin-top: 30px;
+  border-left: 5px solid #00cc22;
+  width: 80%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #666;
+}
